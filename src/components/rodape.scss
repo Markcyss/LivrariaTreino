@@ -1,9 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
 .rodape {
     background-color: #D9D9D9;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     //height: 400px;
     .titulo {
+        padding: 5px;
         font-size: 16px;
         font-weight: bold;
     }
@@ -13,10 +20,12 @@
         align-items: center;
         .card {
             .titulo {
+                padding: 10px;
                 font-size: 16px;
                 font-weight: bold;
             }
             .text {
+                padding: 10px;
                 font-size: 16px;
             }
         }

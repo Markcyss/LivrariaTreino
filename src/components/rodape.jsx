@@ -15,6 +15,7 @@ export default function Rodape() {
                 <div className="card">
                     <h1 className="titulo">Desenvolvido por</h1>
                     <p className="text">Marcos Souza do Carmo</p>
+                    <p className="text">João Pedro dos Santos Cezar</p>
                 </div>
                 <div className="card">
                     <h1 className="titulo">Turma</h1>

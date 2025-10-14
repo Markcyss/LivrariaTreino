@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router";
-import Inicio from "./pages/inicio.jsx";
-import Sobre from "./pages/sobre.jsx"
+import Inicio from "./pages/inicio";
+import Sobre from "./pages/sobre";
 
 export default function Navegacao() {
     return (

@@ -1,6 +1,6 @@
-import Cabecalho from "../components/cabecalho.jsx";
-import Rodape from "../components/rodape.jsx";
-import './sobre.scss'
+import Cabecalho from "../../components/cabecalho";
+import Rodape from "../../components/rodape";
+import './index.scss'
 
 export default function Sobre() {
     return(

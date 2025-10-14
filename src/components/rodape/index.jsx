@@ -1,4 +1,4 @@
-import "./rodape.scss";
+import "./index.scss";
 
 export default function Rodape() {
     return(

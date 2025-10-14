@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import "./cabecalho.scss";
+import "./index.scss";
 
 export default function Cabecalho() {
     return(

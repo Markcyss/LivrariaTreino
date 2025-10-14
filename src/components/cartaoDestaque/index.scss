@@ -1,0 +1,26 @@
+.cartaoDestaque {
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-around;
+    margin: 12px;
+    padding: 12px;
+    gap: 12px;
+    border-radius: 12px;
+
+    .imagem {
+        width: 620px;
+        height: 260px;
+        background-color: yellow;
+        border-radius: 12px;
+
+        img {
+            width: 620px;
+            height: 260px;
+            border-radius: 12px;
+        }
+    }
+
+    .direita {
+        order: 1;
+    }
+}
